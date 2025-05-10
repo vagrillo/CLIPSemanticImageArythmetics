@@ -1,0 +1,7 @@
+ flask 
+ numpy 
+ opencv-python-headless
+ PIL 
+ pillow 
+ pytorch,
+ sentence_transformers 
