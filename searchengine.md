@@ -1,5 +1,4 @@
 
-```markdown
 # Semantic Image Search Engine
 
 A Flask-based service that enables semantic search through an image database using multimodal embeddings (text and images) with weighted query combinations.
