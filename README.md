@@ -4,7 +4,9 @@ A demonstration of vector arithmetic for visual and textual semantic search in a
 
 KING - MAN + WOMAN  = QUEEN
 
-![image](https://github.com/user-attachments/assets/7ef98fca-f817-4b20-a84a-a714afac5de1)
+![image](https://github.com/user-attachments/assets/53f36b22-66ee-40db-9767-993c78900d54)
+
+
 
 ## Overview
 
