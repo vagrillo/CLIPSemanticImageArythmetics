@@ -33,7 +33,7 @@ The repository contains three main components:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/CLIPSemanticImageArithmetics.git
+   git clone https://github.com/vagrillo/CLIPSemanticImageArithmetics.git
    cd CLIPSemanticImageArithmetics
    ```
 
