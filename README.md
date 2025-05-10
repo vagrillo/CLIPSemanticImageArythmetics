@@ -18,8 +18,8 @@ The repository contains three main components:
 
 3. **app.py**  
    The core search application that enables users to:  
-   - Input search criteria  
-   - Combine criteria using arithmetic operations (+, -)  
+   - Input search criteria  text, uploaded image, indexed image
+   - Combine criteria using + arithmetic operations (but you can use negative factor in order to make substractions)  
    - Perform semantic searches based on these combinations  
 
 ## Installation
@@ -54,29 +54,6 @@ The repository contains three main components:
    python app.py
    ```
 
-## Search Syntax
-
-The search application supports vector arithmetic operations:
-- `+` combines concepts (e.g., "sun" + "beach")
-- `-` excludes concepts (e.g., "portrait" - "man")
-- Combine multiple operations (e.g., "landscape" + "sunset" - "city")
-
-## Examples
-
-- Find images that combine the concepts of water and sky:
-  ```
-  water + sky
-  ```
-
-- Find portrait images excluding male subjects:
-  ```
-  portrait - man
-  ```
-
-- Complex query combining multiple concepts:
-  ```
-  landscape + sunset - city + mountain
-  ```
 
 ## Requirements
 
