@@ -2,6 +2,10 @@
 
 A demonstration of vector arithmetic for visual and textual semantic search in an image archive.
 
+KING - MAN + WOMAN  = QUEEN
+
+![image](https://github.com/user-attachments/assets/7ef98fca-f817-4b20-a84a-a714afac5de1)
+
 ## Overview
 
 This repository showcases how vector arithmetic can be applied to perform semantic searches through both visual and textual queries in an image database. The system allows users to combine search criteria using arithmetic operations (addition and subtraction) to create complex semantic queries.
