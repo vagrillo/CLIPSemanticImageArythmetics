@@ -1,4 +1,3 @@
-Here's a comprehensive README.md file in English for your GitHub repository:
 
 ```markdown
 # Semantic Image Search Engine
