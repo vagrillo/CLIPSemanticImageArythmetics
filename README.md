@@ -2,7 +2,7 @@
 
 A demonstration of vector arithmetic for visual and textual semantic search in an image archive.
 
-KING - MAN + WOMAN  = QUEEN
+Because: _KING - MAN + WOMAN  = QUEEN_
 
 ![image](https://github.com/user-attachments/assets/e772013d-77a8-4648-9c96-dd54ef8d8cee)
 
