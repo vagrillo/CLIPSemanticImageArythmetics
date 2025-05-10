@@ -4,7 +4,8 @@ A demonstration of vector arithmetic for visual and textual semantic search in a
 
 Because: _KING - MAN + WOMAN  = QUEEN_
 
-![image](https://github.com/user-attachments/assets/cfe3146f-cfc4-4346-b9ab-009ffae0b981)
+![image](https://github.com/user-attachments/assets/aa8d05f9-fb55-4def-9625-a5551335e5c8)
+
 
 
 
