@@ -14,6 +14,8 @@ Because: _KING - MAN + WOMAN  = QUEEN_
 This repository showcases how vector arithmetic can be applied to perform semantic searches through both visual and textual queries in an image database. The system allows users to combine search criteria using arithmetic operations (addition and subtraction) to create complex semantic queries.
 I have used the **AI** ​​LLM extensively in producing this documentation and developing the main python frontend parts for this project... and I have to say, "**it works**"!
 
+ref.: https://www.youtube.com/watch?v=r6TJfGUhv6s
+
 ## Components
 
 The repository contains three main components:
